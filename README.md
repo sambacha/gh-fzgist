@@ -5,7 +5,7 @@ The extension for [GitHub CLI](https://github.com/cli/cli) to handle gist with f
 ## Installation
 
 ```sh
-gh extension install Omochice/gh-fzgist
+gh extension install sambacha/gh-fzgist
 ```
 
 ## Usage
